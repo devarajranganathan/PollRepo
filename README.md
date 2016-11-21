@@ -8,4 +8,5 @@ Fourth Commit		- for triggering Poll Repo to execute in master after pointing to
 Fifth Commit		- for triggering Build Repo to execute in master
 Sixth Commit		- for triggering Build Repo to execute in master
 Seventh Commit		- for triggering Build Repo to execute in master - Advanced option removed
+8.0
 
