@@ -18,3 +18,4 @@ Seventh Commit		- for triggering Build Repo to execute in master - Advanced opti
 15.0
 16.0
 17.0
+18.0
